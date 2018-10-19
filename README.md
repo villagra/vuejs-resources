@@ -1,2 +1,2 @@
 # vuejs-resources
-A vuejs resource collection
+A vuejs resource collection - updated
